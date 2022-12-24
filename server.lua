@@ -63,3 +63,4 @@ end
   --addDB("Eklenecek stün", "eklenecek değer", "Eklenecek stün", "eklenecek değer")
    addDB("Kullanici_adi", math.random(1, 100000), "Sifre", "123456", "Eposta", "drewski.js@gmail.com", "Live", "Ankara", "Yetki", "Admin")
 -- end
+--test
